@@ -5,4 +5,5 @@ asg 3 ans = https://chatgpt.com/share/6967cd85-6a18-800c-b0ef-8343dcf134c4
 models and dist theorems (theory ans) = https://chatgpt.com/share/6967cbe8-04d4-800c-964a-ea776061a70f
 
 
-codeshare + AI chat =  https://chat.m24-studios.in/
+
+codeshare + AI chat =  https://dev.m24-studios.in/
